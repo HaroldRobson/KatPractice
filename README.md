@@ -1,0 +1,2 @@
+# KatPractice
+Learn Solidity
